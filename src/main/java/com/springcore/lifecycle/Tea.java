@@ -1,5 +1,5 @@
 package com.springcore.lifecycle;
-
+//using interface initializing and desposablebean
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
 

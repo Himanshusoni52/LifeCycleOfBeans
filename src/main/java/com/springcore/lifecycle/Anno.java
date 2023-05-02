@@ -1,5 +1,5 @@
 package com.springcore.lifecycle;
-
+//using @postconstruct and @perdestroy annotation
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 

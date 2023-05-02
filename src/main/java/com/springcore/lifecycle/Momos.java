@@ -1,5 +1,5 @@
 package com.springcore.lifecycle;
-
+// Using inti and destory method
 public class Momos {
 	private double price;
 
