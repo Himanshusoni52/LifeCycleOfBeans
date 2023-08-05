@@ -6,7 +6,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 public class Emp {
 	
 	@Autowired
-	@Qualifier("temp")
+	@Qualifier("temp1")
 	private Address address;
 
 	public Address getAddress() {
